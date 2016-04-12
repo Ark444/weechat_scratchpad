@@ -4,7 +4,7 @@
 SCRIPT_NAME    = "scratchpad"
 SCRIPT_AUTHOR  = "ark <quentrg@gmail.com>"
 SCRIPT_VERSION = "0.0.1"
-SCRIPT_LICENSE = "GPL3"
+SCRIPT_LICENSE = "MIT"
 SCRIPT_DESC    = "opens a scratchpad buffer"
 SCRIPT_COMMAND = "scratchpad"
 
