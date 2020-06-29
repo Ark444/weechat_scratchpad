@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 SCRIPT_NAME    = "scratchpad"
-SCRIPT_AUTHOR  = "ark <quentrg@gmail.com>"
+SCRIPT_AUTHOR  = "eq"
 SCRIPT_VERSION = "0.0.1"
 SCRIPT_LICENSE = "MIT"
 SCRIPT_DESC    = "opens a scratchpad buffer"
